@@ -1,1 +1,1 @@
-this is a file on git
+this is a file managed on git.
